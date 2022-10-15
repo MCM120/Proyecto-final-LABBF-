@@ -1,0 +1,35 @@
+#title{
+    Font-family: sans;
+    font-size: large;
+    display:flex;
+}
+
+#logo{
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.container{
+    display:flex;
+    align-items: center;
+    vertical-align: center;
+}
+
+nav a{
+    font-weight: 500;
+    padding-right: 30px;
+    color: black;
+
+}
+
+nav a:hover{
+    color: gold;
+}
